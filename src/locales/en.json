@@ -1,0 +1,15 @@
+{
+    "side_home": "Home",
+    "side_about": "About Me",
+    "side_blogs": "My Blogs",
+    "date_format": "{{month}} {{day}}",
+    "home_progress": "'s progress",
+    "blogs_count": "Total: ",
+    "blogs_total": "blogs",
+    "stat_visitors": "Total Visitors",
+    "stat_days": "10-Day Trend",
+    "profile_copy": "Click to copy",
+    "profile_copied": "Copied",
+    "welcome": "Welcome to my blog",
+    "description": "This is a blog test."
+}

@@ -1,0 +1,15 @@
+{
+    "side_home": "首页",
+    "side_about": "关于我",
+    "side_blogs": "我的博文",
+    "date_format": "{{month}}月{{day}}日",
+    "home_progress": " 进度条",
+    "blogs_count": "总数：",
+    "blogs_total": "篇",
+    "stat_visitors": "总访客数",
+    "stat_days": "近10日趋势",
+    "profile_copy": "点击复制",
+    "profile_copied": "已复制",
+    "welcome": "欢迎来到我的博客",
+    "description": "这是一个博客测试。"
+}
